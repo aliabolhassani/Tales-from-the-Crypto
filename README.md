@@ -1,4 +1,4 @@
-# Unit 12—Tales from the Crypto
+# Summary of Tales from the Crypto
 
 ## Sentiment Analysis
 
@@ -77,10 +77,10 @@
  ('ha', 4),
  ('ether', 4)]`
 ---
-## Bitcoin word cloud
+## Bitcoin Word Cloud
 ![Stock Sentiment](Images/Bitcoin_word_cloud.png)
 
-## Ethereum word cloud
+## Ethereum Word Cloud
 ![Stock Sentiment](Images/Ethereum_word_cloud.png)
 
 ---
@@ -181,8 +181,8 @@ SPAC: ORG`
 
 ### Ethereum Entities:
 ![Stock Sentiment](Images/Ethereum_NER.png)
-`
-Ethereum: PERSON,
+
+`Ethereum: PERSON,
 Ethereum Killers WORK_OF_ART
 Solana: PERSON,
 Bitcoin and Ethereum: ORG,
@@ -247,6 +247,6 @@ REUTERS: ORG,
 Dado Ruvic: PERSON,
 Reuters: ORG,
 5.17% PERCENT
-33: MONEY,`
+33: MONEY`
 
 
